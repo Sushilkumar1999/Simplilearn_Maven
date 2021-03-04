@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="19631" started-at="2021-03-02T03:36:32 UTC" finished-at="2021-03-02T03:36:52 UTC">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="19631" started-at="2021-03-02T03:36:32 UTC" finished-at="2021-03-02T03:36:52 UTC">
+      <class name="test.TDDexample">
+        <test-method status="PASS" signature="lunchBrowser()[pri:0, instance:test.TDDexample@74650e52]" name="lunchBrowser" is-config="true" duration-ms="19568" started-at="2021-03-02T03:36:32 UTC" finished-at="2021-03-02T03:36:52 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lunchBrowser -->
+        <test-method status="PASS" signature="addtest()[pri:0, instance:test.TDDexample@74650e52]" name="addtest" duration-ms="7" started-at="2021-03-02T03:36:52 UTC" finished-at="2021-03-02T03:36:52 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addtest -->
+      </class> <!-- test.TDDexample -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
